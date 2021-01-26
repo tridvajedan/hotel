@@ -1,0 +1,3 @@
+# Hotel Management Interface
+This is one of my inteface projects that i made for managing a Hotel. It makes a reciept which will be printable with the next version. It contains Fields for customer
+bought food, entering names and everything else including contry, room type....
